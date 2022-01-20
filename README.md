@@ -11,10 +11,12 @@
 ### Benefits of using JsonPowerDB
 
 
-- Simplest way to retrieve data in a JSON format.
-- Schema-free, Simple to use, Nimble and In-Memory database.
-- It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
+- Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.
+- Server side Native NoSQL - best query performance.
 - It is low level (raw) form of data and is also human readable.
+- Simplest way to retrieve data in a JSON format.
+- Web-services API - Can be used with any programming language that has support for HTTP.
+- It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 - It helps developers in faster coding, in-turn reduces development cost.
 
 ### Screenshots:
@@ -29,5 +31,26 @@ Talend API
 
 ### Scope of functionalities
 
-In-built support to query on multiple JPDB databases. Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support. Schema free - easy to develop and maintain. Web-services API - Can be used with any programming language that has support for HTTP.
+It is a very basic project for demonstration of JsonPowerDb with help of a web application.
+Can be further improved by addidng additional fields and can be made into a working DB manager.
+
+### Release History
+
+### V0.0.0 (19/01/2022)
+
+Initialization:
+
+[#1] Performed some basic CRUD operations.
+
+### V0.1.0 (20/01/2022)
+
+Enhancements:
+
+[#2] Advanced Operations are performed in CRUD.
+
+[#3] Added project to github.
+
+[#4] Added a README.md file
+
+
 
