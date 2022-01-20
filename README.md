@@ -26,3 +26,8 @@ Visualize-
 
 Talend API 
 ![image](https://user-images.githubusercontent.com/32535739/150304794-b1e1e33c-0824-45c0-950b-b7a01b359534.png)
+
+### Scope of functionalities
+
+In-built support to query on multiple JPDB databases. Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support. Schema free - easy to develop and maintain. Web-services API - Can be used with any programming language that has support for HTTP.
+
